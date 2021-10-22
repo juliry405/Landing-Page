@@ -1,2 +1,2 @@
 # Landing-Page
-First lading page
+First landing page
